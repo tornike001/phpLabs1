@@ -1,0 +1,33 @@
+form {
+	position: relative;
+	left: 50px;
+	top: 50px;
+
+}
+.table1{
+	position: relative;
+	left: 50px;
+	top: 50px;
+
+}
+.table1 td {
+	min-width: 100px;
+	padding: 10px;
+}
+.table2 {
+	border: 1px solid black;
+	border-collapse: collapse;
+	position: relative;
+	left: 50px;
+	top: 50px;
+}
+
+.table2 td {
+	min-height: 20px;
+	border: 1px solid black;
+	min-width: 100px;
+	text-align: center;
+}
+.boldText {
+	font-weight: bold;
+}
